@@ -2,17 +2,17 @@
   "Ads":
   [
     {
-      "select_main_ads": "UNITY",
-      "select_backup_ads":"",
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"UNITY",
       "main_ads_banner": "",
       "appodeal_apikey": "",
       "main_ads_intertitial":"",
       "native_for_admob":"",
       "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "interval_intertitial": 3,
+      "backup_ads_intertitial":"Interstitial_Android",
+      "interval_intertitial": 0,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk_backup_ads":"4706527",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
